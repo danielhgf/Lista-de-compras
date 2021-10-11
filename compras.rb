@@ -1,7 +1,4 @@
-# frozen_string_literal: true
-
 require 'json'
-require 'rubocop'
 require './colors'
 
 @lista = []
