@@ -1,4 +1,4 @@
-aclass String
+class String
   def black
     "\033[1;30m#{self}\033[0;0m"
   end
